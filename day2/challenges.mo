@@ -1,4 +1,8 @@
-
+import Text "mo:base/Text";
+import Char "mo:base/Char";
+import Iter "mo:base/Iter";
+import Array "mo:base/Array";
+import Nat "mo:base/Nat";
 
 actor challenge{
     
